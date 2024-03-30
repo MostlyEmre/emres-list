@@ -34,8 +34,6 @@ Because this list is an after-thought, I did not save the speedtest results for 
 
 Efficiently designed space similar to Japanese business hotels. It has everything you need in the rooms with good wifi. The location is super walkable and there's a close-by self-service laundry.
 
-## Europe
-
 ## East Asia
 
 ### Japan
