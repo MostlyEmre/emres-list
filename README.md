@@ -1,8 +1,32 @@
-# Emre's List
+- [Intro](#intro)
+  - [Criteria](#criteria)
+    - [Little about me to understand the list better:](#little-about-me-to-understand-the-list-better)
+    - [Why this list?](#why-this-list)
+- [The List](#the-list)
+  - [North America](#north-america)
+    - [Canada](#canada)
+      - [Quebec City](#quebec-city)
+        - [Hôtel AtypiQ](#hôtel-atypiq)
+  - [East Asia](#east-asia)
+    - [Japan](#japan)
+      - [Tokyo](#tokyo)
+        - [APA Hotel Ueno Hirokoji](#apa-hotel-ueno-hirokoji)
+  - [South East Asia](#south-east-asia)
+    - [Malaysia](#malaysia)
+      - [Kuala Lumpur](#kuala-lumpur)
+        - [WOLO Kuala Lumpur](#wolo-kuala-lumpur)
+    - [Philippines](#philippines)
+      - [Makati](#makati)
+        - [City Garden GRAND Hotel Makati](#city-garden-grand-hotel-makati)
+    - [Thailand](#thailand)
+      - [Bangkok](#bangkok)
+        - [ibis Styles Bangkok Sukhumvit 4](#ibis-styles-bangkok-sukhumvit-4)
 
-### This is a global list of hotels with good-enough* Wi-Fi and decent-enough* location. Stayed and verified by me.
+# Intro
 
-Criteria to make it to the list:
+This is a global list of hotels with good-enough Wi-Fi and decent-enough location. Stayed and verified by me.
+
+## Criteria
 
 - **Good-enough Wi-Fi:** You can conduct your work and meetings without issues.
 - **Decent-enough location:** It is either in a self-sufficient location or has convenient public transport access.
@@ -12,11 +36,11 @@ Criteria to make it to the list:
 
 The prices can fluctuate, Asia is usually cheap but for the rest, I usually travel during off-seasons to get better prices.
 
-#### Little about me to understand the list better:
+### Little about me to understand the list better:
 
 I am a frontend developer who works global-remote based on EST 9am-5pm from a 13" laptop. I travel with a 14L backpack and stay in hotels for ~1 month at a time. As you can tell from my backpack, I'm a minimalist and don't mind small rooms as long as they are efficiently designed. I don't cook. I don't drive. I'm a total city person who loves walkability in a location. Because of my small backpack, convenient access to non-hotel laundry services is key. Because of the hours I work, co-working spaces are either unavailable or inconvenient, so I would rather work from my hotel room or nearby cafes/lounges.
 
-#### Why this list?
+### Why this list?
 
 No matter how much I pay and research, I always got burned by Airbnbs. I realized, if a hotel has good Wi-Fi and a decent location and a compatitive price with the top-notch Airbnbs, I'm willing to pick the hotel 100% of the time. Majority of the hotels don't put much effort into their Wi-Fi speeds, when you ask you get the answer "we don't know the speed but it's good". So, I decided to create this list to help others like me. (I'm not affiliated with any of the hotels listed here.)
 
