@@ -1,117 +1,197 @@
-- [Intro](#intro)
-  - [Criteria](#criteria)
-    - [Little about me to understand the list better:](#little-about-me-to-understand-the-list-better)
-    - [Why this list?](#why-this-list)
-- [The List](#the-list)
-  - [North America](#north-america)
-    - [Canada](#canada)
-      - [Quebec City](#quebec-city)
-        - [Hôtel AtypiQ](#hôtel-atypiq)
-  - [East Asia](#east-asia)
-    - [Japan](#japan)
-      - [Tokyo](#tokyo)
-        - [APA Hotel Ueno Hirokoji](#apa-hotel-ueno-hirokoji)
-  - [South East Asia](#south-east-asia)
-    - [Malaysia](#malaysia)
-      - [Kuala Lumpur](#kuala-lumpur)
-        - [WOLO Kuala Lumpur](#wolo-kuala-lumpur)
-    - [Philippines](#philippines)
-      - [Makati](#makati)
-        - [City Garden GRAND Hotel Makati](#city-garden-grand-hotel-makati)
-    - [Thailand](#thailand)
-      - [Bangkok](#bangkok)
-        - [ibis Styles Bangkok Sukhumvit 4](#ibis-styles-bangkok-sukhumvit-4)
-      - [Pattaya](#pattaya)
-        - [Mercure Pattaya Ocean Resort](#mercure-pattaya-ocean-resort)
-- [Other hotels that don't fit the criteria](#other-hotels-that-dont-fit-the-criteria)
-  - [East Asia](#east-asia-1)
-    - [Hong Kong](#hong-kong)
-      - [AKI Hotel Hong Kong - MGallery Collection](#aki-hotel-hong-kong---mgallery-collection)
+# Digital Nomad's Guide to Work-Friendly Hotels
 
-# Intro
+## Table of Contents
 
-This is a global list of hotels with good-enough Wi-Fi and decent-enough location. Stayed and verified by me.
+- [Digital Nomad's Guide to Work-Friendly Hotels](#digital-nomads-guide-to-work-friendly-hotels)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+    - [About This Guide](#about-this-guide)
+    - [About Me](#about-me)
+    - [Selection Criteria](#selection-criteria)
+  - [Verified Hotels](#verified-hotels)
+    - [North America](#north-america)
+      - [Canada](#canada)
+        - [Quebec City](#quebec-city)
+          - [Hôtel AtypiQ](#hôtel-atypiq)
+    - [East Asia](#east-asia)
+      - [Japan](#japan)
+        - [Tokyo](#tokyo)
+          - [APA Hotel Ueno Hirokoji](#apa-hotel-ueno-hirokoji)
+    - [Southeast Asia](#southeast-asia)
+      - [Malaysia](#malaysia)
+        - [Kuala Lumpur](#kuala-lumpur)
+          - [WOLO Kuala Lumpur](#wolo-kuala-lumpur)
+      - [Philippines](#philippines)
+        - [Makati](#makati)
+          - [City Garden GRAND Hotel](#city-garden-grand-hotel)
+      - [Thailand](#thailand)
+        - [Bangkok](#bangkok)
+          - [ibis Styles Sukhumvit 4](#ibis-styles-sukhumvit-4)
+        - [Pattaya](#pattaya)
+          - [Mercure Ocean Resort](#mercure-ocean-resort)
+  - [Hotels Outside Price Range](#hotels-outside-price-range)
+    - [East Asia](#east-asia-1)
+      - [Hong Kong](#hong-kong)
+        - [AKI Hotel MGallery](#aki-hotel-mgallery)
 
-## Criteria
+## Introduction
 
-- **Good-enough Wi-Fi:** You can conduct your work and meetings without issues.
-- **Decent-enough location:** It is either in a self-sufficient location or has convenient public transport access.
-- **Relatively good value:** The price is competitive with the top-notch Airbnbs in the area or even better. Maximum $3500 CAD per month. Mostly around $2000-$2500 CAD I found.
-- **Confirmed by me:** I stayed in the hotel for at least 2 weeks and successfuly worked from there.
-- **Confirmed by you:** You stayed in the hotel for at least 2 weeks and successfuly worked from there. Share speedtest results, the month and price.
+### About This Guide
 
-The prices can fluctuate, Asia is usually cheap but for the rest, I usually travel during off-seasons to get better prices.
+This is a carefully curated list of hotels with reliable WiFi and strategic locations, personally verified through extended stays. After repeatedly getting burned by Airbnbs despite thorough research and premium prices, I realized that hotels with good WiFi, decent locations, and competitive pricing are the more reliable choice for digital nomads. Since most hotels don't provide specific information about their WiFi speeds, I created this guide to help others like me find dependable accommodations for remote work.
 
-### Little about me to understand the list better:
+### About Me
 
-I am a frontend developer who works global-remote based on EST 9am-5pm from a 13" laptop. I travel with a 14L backpack and stay in hotels for ~1 month at a time. As you can tell from my backpack, I'm a minimalist and don't mind small rooms as long as they are efficiently designed. I don't cook. I don't drive. I'm a total city person who loves walkability in a location. Because of my small backpack, convenient access to non-hotel laundry services is key. Because of the hours I work, co-working spaces are either unavailable or inconvenient, so I would rather work from my hotel room or nearby cafes/lounges.
+I'm a frontend developer working remotely on EST (9AM-5PM) from a 13" laptop. My approach to travel is minimalist—I carry a 14L backpack and typically stay in one location for about a month. Due to my work hours, co-working spaces are often either unavailable or impractical, so I primarily work from my hotel room or nearby cafes.
 
-### Why this list?
+Key preferences:
 
-No matter how much I pay and research, I always got burned by Airbnbs. I realized, if a hotel has good Wi-Fi and a decent location and a compatitive price with the top-notch Airbnbs, I'm willing to pick the hotel 100% of the time. Majority of the hotels don't put much effort into their Wi-Fi speeds, when you ask you get the answer "we don't know the speed but it's good". So, I decided to create this list to help others like me. (I'm not affiliated with any of the hotels listed here.)
+- No cooking required
+- No driving - rely on public transport
+- Urban environments with high walkability
+- Access to laundry services (essential due to minimal packing)
+- Efficiently designed spaces (small rooms are fine if well-planned)
 
-Because this list is an after-thought, I did not save the speedtest results for all hotels. I will start doing that from now on. I will also add more hotels as I travel more.
+### Selection Criteria
 
-# The List
+- **WiFi Quality**: Consistently reliable for video calls and development work
+- **Location**: Either self-contained with amenities or well-connected by public transport
+- **Value**: Competitive with or better than premium Airbnbs (Maximum: 3500 CAD/month, typically 2000-2500 CAD)
+- **Verification**: Personal stay of at least two weeks with successful remote work experience
+- **Community Verification**: Welcome from others who have stayed minimum 2 weeks (include speedtest results, month, and price)
 
-## North America
+_Note: Prices vary by season. Most favorable rates in Asia, while other regions are best visited during off-peak periods. Future entries will include speedtest results._
 
-### Canada
+## Verified Hotels
 
-#### Quebec City
+### North America
 
-##### Hôtel AtypiQ
+#### Canada
 
-Efficiently designed space similar to Japanese business hotels. It has everything you need in the rooms with good wifi. The location is super walkable and there's a close-by self-service laundry.
+##### Quebec City
 
-## East Asia
+###### Hôtel AtypiQ
 
-### Japan
+- **Overview**: Efficiently designed space reminiscent of Japanese business hotels
+- **Room**: Everything you need in a compact, well-thought-out space
+- **Location**:
+  - Highly walkable area
+  - Self-service laundry nearby
+- **WiFi**: Reliable for remote work
+- **Best for**: Solo travelers who appreciate functional minimalism
 
-#### Tokyo
+### East Asia
 
-##### APA Hotel Ueno Hirokoji
+#### Japan
 
-Classic Japanese business hotel. Small room but has everything you need. Convenient location near Ueno station and Akihabara. Has close-by convenience stores that are open 24/7. Cleaning schedule is around 9AM-1PM Tokyo time. (Can be annoying if you work late and sleep in.) The cleaning crew also drops fresh towels, coffee etc. everyday even if you don't use them. So after a while these start to pile up and you look like a hoarder. I'm sure they would stop giving you new stuff if you tell them. I didn't. Walking distance self-service laundry available, super easy to use, fully digital process.
+##### Tokyo
 
-## South East Asia
+###### APA Hotel Ueno Hirokoji
 
-### Malaysia
+- **Overview**: Classic Japanese business hotel efficiency
+- **Location**:
+  - Near Ueno station and Akihabara
+  - 24/7 convenience stores nearby
+  - Walking distance to self-service laundry (fully digital process, easy to use)
+- **Room**:
+  - Compact but fully equipped
+  - Daily cleaning schedule (9AM-1PM Tokyo time)
+  - Daily amenity refresh (towels, coffee, etc.)
+- **Important Notes**:
+  - Cleaning schedule may conflict with EST work hours if you sleep late
+  - Consider requesting reduced amenity delivery to prevent accumulation
+  - Everything you need in a small space
 
-#### Kuala Lumpur
+### Southeast Asia
 
-##### WOLO Kuala Lumpur
+#### Malaysia
 
-This hotel saved my life. I was in a bad (pests) but expensive Airbnb (in that 1 famous building with the infinity pool where digital nomads take photos) and I had to move out during my lunch break, had to find a place to stay during my lunch break (late at night in Kuala Lumpur). This hotel has convenient cleaning hours, good wifi, a fancy Starbucks downstairs. The location is right at the center of the city centre. Super walkable, super close to public transportation. There are also affordable laundry services around.
+##### Kuala Lumpur
 
-### Philippines
+###### WOLO Kuala Lumpur
 
-#### Makati
+- **Overview**: A reliable haven in the city center
+- **Location**:
+  - Heart of city centre
+  - Excellent public transportation access
+  - Highly walkable area
+  - Affordable laundry services nearby
+- **Amenities**:
+  - Convenient cleaning schedule
+  - Good WiFi
+  - Fancy Starbucks on ground floor
+- **Personal Note**: This hotel was a lifesaver when I had to quickly relocate from a problematic Airbnb (pest issues) in the famous infinity pool building during a lunch break
 
-##### City Garden GRAND Hotel Makati
+#### Philippines
 
-Bonkers city views on higher-floors and on the rooftop. Great Wi-Fi. Close to 24/7 convenience stores and affordable laundry services. Hotel staff is super kind and helpful, they even upgraded my room to a corner suite due to a miscommunication caused by trip.com. I got to sleep on the largest bed I've ever seen. There's a super-close mid-sized shopping mall with movie theatre and restaurants.
+##### Makati
 
-### Thailand
+###### City Garden GRAND Hotel
 
-#### Bangkok
+- **Overview**: Impressive city views and exceptional service
+- **Location**:
+  - Close to 24/7 convenience stores
+  - Affordable laundry services nearby
+  - Adjacent to mid-sized shopping mall with cinema and restaurants
+- **Amenities**:
+  - Outstanding WiFi
+  - Spectacular city views from higher floors and rooftop
+  - Exceptionally large beds in corner suites
+- **Staff**: Notably kind and helpful, provided suite upgrade due to booking miscommunication
 
-##### ibis Styles Bangkok Sukhumvit 4
+#### Thailand
 
-Great Wi-Fi. 24/7 lively location. Many laundry places available around the hotel with super affordable prices. Close to BTS. The only downside is the room doesn't have a chair but a stool with no back support. Maybe the management would provide a chair if you ask. I didn't.
+##### Bangkok
 
-#### Pattaya
+###### ibis Styles Sukhumvit 4
 
-##### Mercure Pattaya Ocean Resort
+- **Overview**: Great value in prime location
+- **Location**:
+  - 24/7 lively neighborhood
+  - Close to BTS
+  - Multiple affordable laundry options nearby
+- **WiFi**: Excellent connectivity
+- **Room Note**: Standard rooms come with backless stool instead of proper chair
+- **Workspace**: Consider requesting a proper chair for extended work sessions
 
-The location of this hotel is a bit far from the center so prepare to walk. It has a Terminal21 shopping mall 10-minute walking distance but you have to cross the street which can be tricky as you have to jaywalk. The hotel is full of amenities and decent internet speeds yet on the lower side of the speed spectrum. This hotel's customer demographics are families with kids as it has a small waterpark. So it can be hectic sometimes. The room has a nice desk and a decent chair. I feel like the ibis Styles Bangkok Sukhumvit 4 was way better than this hotel in terms of cleanliness and location even though it's official star rating is 1 star lower. I stayed at this hotel for 6 nights and the price was 80 CAD for 1 night which is more than fair for a 4-star hotel. Overall, I don't recommend this hotel because of the location and the customer demographics.
+##### Pattaya
 
-# Other hotels that don't fit the criteria
+###### Mercure Ocean Resort
 
-## East Asia
+- **Price**: 80 CAD/night
+- **Location**:
+  - Somewhat removed from center
+  - 10-minute walk to Terminal21 shopping mall
+  - Requires jaywalking across busy street for mall access
+- **Amenities**:
+  - Small waterpark
+  - Decent desk and chair in room
+  - Adequate internet (lower end of acceptable speeds)
+- **Important Considerations**:
+  - Family-oriented property with frequent noise
+  - Less clean than ibis Styles Bangkok despite higher star rating
+  - Not recommended for focused work environment
 
-### Hong Kong
+## Hotels Outside Price Range
 
-#### AKI Hotel Hong Kong - MGallery Collection
+### East Asia
 
-This was an interesting hotel, even though it is a 5-star hotel, it doesn't feel like it in terms of amenities, lobby and the rooms. The rooms have a vibe, and their design is highly opinionated. The outlets don't have converters so don't forget to bring your international adapter. The internet speed was decent around 70mbit but there were no tables, just a small surface that you can move around your bed. It is close to MRT, maybe a 5 minutes walk. There's a 7-11 nearby. I would say this hotel is not suitable for working from, but if you're on vacation, it's a good place to stay. I only stayed for 2 nights, and the price was around $260 CAD per night, on the pricey side.
+#### Hong Kong
+
+##### AKI Hotel MGallery
+
+- **Price**: ~260 CAD/night (outside monthly budget criteria)
+- **Rating vs Reality**: 5-star rating doesn't reflect in room amenities
+- **Internet**: ~70Mbps
+- **Location**:
+  - 5-minute walk to MTR
+  - 7-11 nearby
+- **Room Notes**:
+  - Distinctive but impractical design
+  - No power adapters provided
+  - Limited workspace (small movable surface near bed)
+  - Interesting vibe but lacks expected 5-star amenities
+- **Stay Duration**: 2 nights
+- **Verdict**: Better suited for short leisure stays than work trips
+
+_Note: This guide is continuously updated based on personal experiences and community contributions. Future entries will include speedtest results._
