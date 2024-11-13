@@ -21,6 +21,12 @@
     - [Thailand](#thailand)
       - [Bangkok](#bangkok)
         - [ibis Styles Bangkok Sukhumvit 4](#ibis-styles-bangkok-sukhumvit-4)
+      - [Pattaya](#pattaya)
+        - [Mercure Pattaya Ocean Resort](#mercure-pattaya-ocean-resort)
+- [Other hotels that don't fit the criteria](#other-hotels-that-dont-fit-the-criteria)
+  - [East Asia](#east-asia-1)
+    - [Hong Kong](#hong-kong)
+      - [AKI Hotel Hong Kong - MGallery Collection](#aki-hotel-hong-kong---mgallery-collection)
 
 # Intro
 
@@ -93,3 +99,19 @@ Bonkers city views on higher-floors and on the rooftop. Great Wi-Fi. Close to 24
 ##### ibis Styles Bangkok Sukhumvit 4
 
 Great Wi-Fi. 24/7 lively location. Many laundry places available around the hotel with super affordable prices. Close to BTS. The only downside is the room doesn't have a chair but a stool with no back support. Maybe the management would provide a chair if you ask. I didn't.
+
+#### Pattaya
+
+##### Mercure Pattaya Ocean Resort
+
+The location of this hotel is a bit far from the center so prepare to walk. It has a Terminal21 shopping mall 10-minute walking distance but you have to cross the street which can be tricky as you have to jaywalk. The hotel is full of amenities and decent internet speeds yet on the lower side of the speed spectrum. This hotel's customer demographics are families with kids as it has a small waterpark. So it can be hectic sometimes. The room has a nice desk and a decent chair. I feel like the ibis Styles Bangkok Sukhumvit 4 was way better than this hotel in terms of cleanliness and location even though it's official star rating is 1 star lower. I stayed at this hotel for 6 nights and the price was 80 CAD for 1 night which is more than fair for a 4-star hotel. Overall, I don't recommend this hotel because of the location and the customer demographics.
+
+# Other hotels that don't fit the criteria
+
+## East Asia
+
+### Hong Kong
+
+#### AKI Hotel Hong Kong - MGallery Collection
+
+This was an interesting hotel, even though it is a 5-star hotel, it doesn't feel like it in terms of amenities, lobby and the rooms. The rooms have a vibe, and their design is highly opinionated. The outlets don't have converters so don't forget to bring your international adapter. The internet speed was decent around 70mbit but there were no tables, just a small surface that you can move around your bed. It is close to MRT, maybe a 5 minutes walk. There's a 7-11 nearby. I would say this hotel is not suitable for working from, but if you're on vacation, it's a good place to stay. I only stayed for 2 nights, and the price was around $260 CAD per night, on the pricey side.
